@@ -1,0 +1,11 @@
+.slds-form-element__control {
+    display:flex;
+}
+
+.slds-form-element__control.input-left {
+    flex: 1;
+}
+
+.slds-form-element__control.button-right {
+    flex: 1;
+}
